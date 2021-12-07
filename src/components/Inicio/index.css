@@ -1,0 +1,19 @@
+.userbar{
+    background-color: #B2EBF2;
+    width: 100vw;
+    margin-top: 0.2rem;
+    margin-left: -1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.imglogo {
+    padding: 1em;;
+    width: 90vw;
+}
+
+.imgcont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
